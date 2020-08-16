@@ -1,0 +1,47 @@
+C:\Users\admin\C#\CourseWorkNET\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.csprojAssemblyReference.cache
+C:\Users\admin\C#\CourseWorkNET\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.MainForm.resources
+C:\Users\admin\C#\CourseWorkNET\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.Properties.Resources.resources
+C:\Users\admin\C#\CourseWorkNET\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.csproj.GenerateResource.cache
+C:\Users\admin\C#\CourseWorkNET\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.csproj.CoreCompileInputs.cache
+C:\Users\admin\C#\CourseWorkNET\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\WindowsFormServerDGA.exe.config
+C:\Users\admin\C#\CourseWorkNET\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\WindowsFormServerDGA.exe
+C:\Users\admin\C#\CourseWorkNET\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\WindowsFormServerDGA.pdb
+C:\Users\admin\C#\CourseWorkNET\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.exe
+C:\Users\admin\C#\CourseWorkNET\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.pdb
+C:\Users\admin\C#\CourseWorkNET\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\dbServerDGA.mdf
+C:\Users\admin\C#\CourseWorkNET\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\dbServerDGA_log.ldf
+C:\Users\admin\C#\ADO.NET\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.MainForm.resources
+C:\Users\admin\C#\ADO.NET\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.Properties.Resources.resources
+C:\Users\admin\C#\ADO.NET\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.csproj.GenerateResource.cache
+C:\Users\admin\C#\ADO.NET\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.csproj.CoreCompileInputs.cache
+C:\Users\admin\C#\ADO.NET\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\dbServerDGA.mdf
+C:\Users\admin\C#\ADO.NET\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\dbServerDGA_log.ldf
+C:\Users\admin\C#\ADO.NET\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\WindowsFormServerDGA.exe.config
+C:\Users\admin\C#\ADO.NET\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\WindowsFormServerDGA.exe
+C:\Users\admin\C#\ADO.NET\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\WindowsFormServerDGA.pdb
+C:\Users\admin\C#\ADO.NET\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.csprojAssemblyReference.cache
+C:\Users\admin\C#\ADO.NET\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.exe
+C:\Users\admin\C#\ADO.NET\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.pdb
+C:\Users\admin\C#\ADO.NET\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\WindowsFormClientDGA.exe
+C:\Users\admin\C#\ADO.NET\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\WindowsFormClientDGA.pdb
+C:\Users\admin\C#\ADO.NET\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\WindowsFormClientDGA.exe.config
+C:\Users\admin\C#\ADO.NET\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.csproj.CopyComplete
+C:\Users\admin\C#\CourseWorkNET\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\WindowsFormClientDGA.exe
+C:\Users\admin\C#\CourseWorkNET\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\WindowsFormClientDGA.pdb
+C:\Users\admin\C#\CourseWorkNET\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\WindowsFormClientDGA.exe.config
+C:\Users\admin\C#\CourseWorkNET\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.csproj.CopyComplete
+D:\Zona Downloads\DropMeFiles_3O20o\WindowsFormServerDGA14.08.20\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\dbServerDGA.mdf
+D:\Zona Downloads\DropMeFiles_3O20o\WindowsFormServerDGA14.08.20\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\dbServerDGA_log.ldf
+D:\Zona Downloads\DropMeFiles_3O20o\WindowsFormServerDGA14.08.20\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\WindowsFormServerDGA.exe.config
+D:\Zona Downloads\DropMeFiles_3O20o\WindowsFormServerDGA14.08.20\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\WindowsFormServerDGA.exe
+D:\Zona Downloads\DropMeFiles_3O20o\WindowsFormServerDGA14.08.20\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\WindowsFormServerDGA.pdb
+D:\Zona Downloads\DropMeFiles_3O20o\WindowsFormServerDGA14.08.20\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\WindowsFormClientDGA.pdb
+D:\Zona Downloads\DropMeFiles_3O20o\WindowsFormServerDGA14.08.20\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.csprojResolveAssemblyReference.cache
+D:\Zona Downloads\DropMeFiles_3O20o\WindowsFormServerDGA14.08.20\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.MainForm.resources
+D:\Zona Downloads\DropMeFiles_3O20o\WindowsFormServerDGA14.08.20\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.Properties.Resources.resources
+D:\Zona Downloads\DropMeFiles_3O20o\WindowsFormServerDGA14.08.20\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.csproj.GenerateResource.Cache
+D:\Zona Downloads\DropMeFiles_3O20o\WindowsFormServerDGA14.08.20\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.exe
+D:\Zona Downloads\DropMeFiles_3O20o\WindowsFormServerDGA14.08.20\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.pdb
+C:\GoogleDrive\ШАГ\Курсовой проект С#\DropMeFiles_3O20o\WindowsFormServerDGA14.08.20\WindowsFormServerDGA\WindowsFormServerDGA\bin\Debug\WindowsFormServerDGA.exe.config
+C:\GoogleDrive\ШАГ\Курсовой проект С#\DropMeFiles_3O20o\WindowsFormServerDGA14.08.20\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.exe
+C:\GoogleDrive\ШАГ\Курсовой проект С#\DropMeFiles_3O20o\WindowsFormServerDGA14.08.20\WindowsFormServerDGA\WindowsFormServerDGA\obj\Debug\WindowsFormServerDGA.pdb
